@@ -1,2 +1,0 @@
-# fidelizacion
-Programa de Fidelización
